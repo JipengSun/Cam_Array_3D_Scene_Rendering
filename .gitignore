@@ -3,3 +3,4 @@ output_colors
 examples
 assets
 __pycache__
+*.DS_Store

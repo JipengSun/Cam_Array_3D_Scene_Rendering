@@ -1,0 +1,1 @@
+blenderproc vis hdf5 output/0.hdf5
